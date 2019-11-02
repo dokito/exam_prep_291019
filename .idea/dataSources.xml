@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Casebook/Hibernate" uuid="1688e509-0fcd-4b7e-936b-17b42cf14cd1">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+E:/Java Web Basics/exam_prep_291019/src/main/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/casebook_db?useSSL=false&amp;createDatabaseIfNotExist=true&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
